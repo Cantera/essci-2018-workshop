@@ -20,4 +20,4 @@ and a discussion panel regarding future directions for Cantera. The Workshop wil
 Bryan Weber, one of the contributing developers to Cantera.
 
 Everyone is welcome, and we especially encourage new users to attend! Please fill out the form
-at https://goo.gl/forms/7VhyWkvIj0K3W5nC3 if you plan to attend!
+at <https://goo.gl/forms/7VhyWkvIj0K3W5nC3> if you plan to attend!
