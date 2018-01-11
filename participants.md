@@ -2,11 +2,9 @@
 
 The meeting will be hosted by
 
-* Ray Speth (MIT)
-* Steven DeCaluwe (Colorado School of Mines)
 * Bryan Weber (University of Connecticut)
 
 ## Attending
 
-Everyone is welcome to attend the workshop. Please email [bryan.weber@uconn.edu](mailto:bryan.weber@uconn.edu) with
-questions or if you are planning to attend.
+Everyone is welcome to attend the workshop. Please email fill out the form at
+https://goo.gl/forms/7VhyWkvIj0K3W5nC3 if you plan to attend
